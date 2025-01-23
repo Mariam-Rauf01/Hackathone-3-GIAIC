@@ -9,8 +9,7 @@ A sleek and dynamic frontend for an online shopping platform focused on **bandag
 2. [Features](#features)  
 3. [Live Demo](#live-demo)  
 4. [Technologies Used](#technologies-used)  
-5. [Setup Instructions](#setup-instructions)  
-6. [Project Structure](#project-structure)  
+5. [Setup Instructions](#setup-instructions)   
 7. [Performance Testing](#performance-testing)  
 8. [Contributing](#contributing)  
 9. [License](#license)  
@@ -159,7 +158,9 @@ This project is licensed under the MIT License.
 For any queries or feedback, feel free to reach out:
 
 Email: mariam.rauf567@gmail.com
+
 Linkedin: https://www.linkedin.com/in/mariam-rauf-soomro-3a2046247/
+
 GitHub: https://github.com/Mariam-Rauf01
 
  
